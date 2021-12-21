@@ -10,4 +10,5 @@
 
 ## Github Status ⚡
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelogomes90&show_icons=true&locale=en" alt="marcelogomes90" /></p
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelogomes90&" alt="marcelogomes90" /></p>
