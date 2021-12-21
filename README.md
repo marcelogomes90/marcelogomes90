@@ -1,8 +1,7 @@
 # Hi 👋 I’m Marcelo!<br/>
 
-## Bio 👨‍🎓
-
-31 years old, Brazilian and born in Recife/PE. Passionate about technology, books and movies. Student development of systems with a focus on frontend.<br/>
+31 years old, Brazilian and born in Recife/PE. Passionate about technology, books and movies. Student development of systems with a focus on frontend 👨‍🎓
+<br/>
 
 ## Contact 📫
 
