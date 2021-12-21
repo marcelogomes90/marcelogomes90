@@ -8,8 +8,6 @@
 
 [![Javascript_Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]() [![html_Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() [![css_Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]() [![react_Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]() [![angular_Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]() [![python_Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]() [![typescript_Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]() [![nodejs_Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]() [![github_Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()<br/>
 
-## Github Status ⚡
+## Github status ⚡
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelogomes90&show_icons=true&locale=en&layout=compact" alt="marcelogomes90" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelogomes90&show_icons=true&locale=en" alt="marcelogomes90" /></p
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelogomes90&" alt="marcelogomes90" /></p>
