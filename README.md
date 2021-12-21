@@ -13,6 +13,4 @@
 
 ## Github status ⚡
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelogomes90&show_icons=true&locale=en" alt="marcelogomes90" /></p>
-
-![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=nord&show_icons=true)
+![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelogomes90&theme=nord&show_icons=true)
