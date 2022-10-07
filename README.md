@@ -1,6 +1,8 @@
 # Hi, I’m Marcelo! 👋<br/>
 
-31 years old, Brazilian and born in Recife/PE. Passionate about technology, books and movies. Student development of systems with a focus on frontend 👨‍🎓
+Apaixonado por programação e tecnologia!
+
+Sou um profissional da área de TI, com ênfase em desenvolvimento de sistemas e tenho como principais stacks Javascript e React. No momento me encontro estudando gestão da tecnologia da informação e fazendo cursos de especialização em desenvolvimento Web. 👨‍🎓
 <br/>
 
 ## Contact 📫
