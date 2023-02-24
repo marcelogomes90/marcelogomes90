@@ -2,8 +2,8 @@
 
 Apaixonado por programação e tecnologia!
 
-Sou um profissional da área de TI, com ênfase em desenvolvimento de sistemas e tenho como principais stacks Javascript e React. No momento me encontro estudando gestão da tecnologia da informação e fazendo cursos de especialização em desenvolvimento Web. 👨‍🎓
-<br/>
+- Estudante de Tecnologia da Informação 🎓 <br/>
+- Desenvolvedor na [amigoapp](https://www.amigotech.com.br/) :computer: <br/>
 
 ## Contato 📫
 
@@ -15,9 +15,8 @@ Sou um profissional da área de TI, com ênfase em desenvolvimento de sistemas e
 
 ## Github status ⚡
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelogomes90&theme=nord&show_icons=true&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogomes90&layout=compact&theme=nord&show_icons=true&hide_border=true" />
-</a>
+<div>
+  <a href="https://github.com/marcelogomes90">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcelogomes90&theme=nord&show_icons=true&hide_border=true" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogomes90&layout=compact&theme=nord&show_icons=true&hide_border=true" /> 
+</div>
