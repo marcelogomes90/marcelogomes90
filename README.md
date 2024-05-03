@@ -2,7 +2,7 @@
 
 Apaixonado por programação e tecnologia!
 
-- Estudante de Tecnologia da Informação 🎓 <br/>
+- Formado em Tecnologia da Informação 🎓 <br/>
 - Desenvolvedor na [amigoapp](https://www.amigotech.com.br/) :computer: <br/>
 
 ### Contato 📫
